@@ -1,3 +1,6 @@
+This solo mini project was created on a REACT framework, and was aimed towards cloning of instagram frontend, and some of its backend. 
+
+
 DATABASE DETAILS:
 
 mySQL database
